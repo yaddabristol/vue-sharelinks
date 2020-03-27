@@ -84,12 +84,6 @@ export default {
           height: 500
         },
         {
-          name: "google",
-          href: "https://plus.google.com/share?url=%URL%",
-          width: 600,
-          height: 600
-        },
-        {
           name: "linkedin",
           href: "https://www.linkedin.com/sharing/share-offsite/?url=%URL%",
           width: 520,
