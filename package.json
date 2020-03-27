@@ -1,6 +1,6 @@
 {
   "name": "vue-sharelinks",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Make links to share the current page on social media sites using Vue.",
   "main": "src/ShareLinks.vue",
   "scripts": {
@@ -17,6 +17,13 @@
     "links"
   ],
   "author": "Matt Pill",
+  "contributors": [
+    {
+      "name": "Jake Gully",
+      "email": "jake@maya.agency",
+      "url": "https://maya.agency"
+    }
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/yaddabristol/vue-sharelinks/issues"
