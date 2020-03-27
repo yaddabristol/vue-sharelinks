@@ -1,6 +1,6 @@
 {
   "name": "vue-sharelinks",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Make links to share the current page on social media sites using Vue.",
   "main": "src/ShareLinks.vue",
   "scripts": {
