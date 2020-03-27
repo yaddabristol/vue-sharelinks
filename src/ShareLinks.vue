@@ -91,8 +91,7 @@ export default {
         },
         {
           name: "linkedin",
-          href:
-            "http://www.linkedin.com/shareArticle?mini=true&amp;url=%URL%&amp;title=%TITLE%",
+          href: "https://www.linkedin.com/sharing/share-offsite/?url=%URL%",
           width: 520,
           height: 570
         }
